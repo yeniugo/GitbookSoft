@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
+* [说明](README.md)
 * [常用浏览器](chapter1.md)
   * [chrome](chapter1/chrome.md)
   * [firefox](chapter1/firefox.md)
