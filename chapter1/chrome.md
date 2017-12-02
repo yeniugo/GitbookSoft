@@ -17,3 +17,7 @@
 
 **chrome://chrome-urls**
 
+支持平台：
+
+windows/linux/mac os/ios/android
+
